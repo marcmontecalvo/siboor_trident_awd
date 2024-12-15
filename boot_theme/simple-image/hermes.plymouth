@@ -1,8 +1,0 @@
-es[Plymouth Theme]
-Name=Hermes Simple Image
-Description=This is a plymouth theme with a static logo
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/hermes
-ScriptFile=/usr/share/plymouth/themes/hermes/hermes.script
